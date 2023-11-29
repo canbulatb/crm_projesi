@@ -1,0 +1,38 @@
+1700259610714	geckodriver	INFO	Listening on 127.0.0.1:53923
+1700259613782	mozrunner::runner	INFO	Running command: "C:\\Users\\bilal\\.cache\\selenium\\firefox\\win64\\119.0.1\\firefox.exe" "--marionette" "--remote-debuggin ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofilekE3Osj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700259614761	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700259614938	Marionette	INFO	Listening on port 53936
+WebDriver BiDi listening on ws://127.0.0.1:53924
+Read port: 53936
+1700259615211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53924/devtools/browser/de37dc69-ab97-4291-9aea-b62d18e5b6ea
+1700259644781	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:69164
+
+1700259826978	Marionette	INFO	Stopped listening on port 53936
+Dynamically enable window occlusion 1
+1700259831539	geckodriver	INFO	Listening on 127.0.0.1:54122
+1700259834603	mozrunner::runner	INFO	Running command: "C:\\Users\\bilal\\.cache\\selenium\\firefox\\win64\\119.0.1\\firefox.exe" "--marionette" "--remote-debuggin ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileg6tvrW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700259834935	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700259835020	Marionette	INFO	Listening on port 54132
+WebDriver BiDi listening on ws://127.0.0.1:54123
+Read port: 54132
+1700259835170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54123/devtools/browser/f6d3da78-1aa2-46e5-896c-4ff89567177a
+1700259864958	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ZVZPR7D2H0&l=dataLayer&cx=c, line 479: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-ZVZPR7D2H0&l=dataLayer&cx=c:479:42
+get@https://www.googletagmanager.com/gtag/js?id=G-ZVZPR7D2H0&l=dataLayer&cx=c:477:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ZVZPR7D2H0&l=dataLayer&cx=c:477:87
+aa.Ik/c/<@https://www.googletagmanager.com/gtag/js?id=G-ZVZPR7D2H0&l=dataLayer&cx=c:477:412
+
+1700260026262	Marionette	INFO	Stopped listening on port 54132
+Dynamically enable window occlusion 1
